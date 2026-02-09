@@ -8,4 +8,6 @@ div = num1/num2
 
 
 print("A soma é : ",soma)
-
+print("A subritação é : ",sub)
+print("A multiplicação é : ",mult)
+print("A divisão é : ",div)
